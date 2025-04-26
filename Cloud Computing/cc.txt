@@ -1,0 +1,16 @@
+cloud based data storage
+Cloud-based data storage refers to the practice of storing and managing data
+in remote servers that are accessible via the internet. Instead of storing data
+on local hardware devices like hard drives or on-premises servers,
+cloud storage allows individuals and businesses to store their data
+in off-site data centers owned and maintained by cloud service providers.
+
+
+
+
+1 ISL:Legacy Code ko translate karny ma kam ata h
+2 HAL: ya data ko virtualized karta ata h physical ko virtual ma hypervisor install hota h.
+2 OSA:
+ 
+vd 31 32 42 46 47 48 49
+	

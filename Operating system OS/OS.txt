@@ -1,0 +1,76 @@
+OS: resource allocator/manage all resources/control/mediator/
+it is a part of system software
+(language converter/
+Assembler(convert assembly to machine language(0,1))/
+Compiler(convert high level to machine language(0,1)/
+interpretor(same as compiler))
+User/App/OS/Hardware(Rom/I.O devics)
+
+Virtual memory: stored data in HDD usky ilawa jo space h wo virtual ka use ata h. 
+aik sa ziada file open h but at a time aik file chaly wo RAM ma or baqi virtual ma dal deta h.
+
+OS functions:/
+Processing management/process ko manage karky rakhna aik sa ziada kam karty hn ham.
+Memory management/apki memory kaha save ho rahi h kitna data kitni gb ma save karna h  
+File management/Address ka mutabiq file ko us location par save karta h
+I.O management/I.O ko phly read karta h phr uxko bios ko through kisi bh location par kam karta h like print. 
+
+OS Types:
+Real time OS/use robotics with in given time kam hojaye./Hard(not change time) and Soft(time change)
+Batch processing OS/ batch banata h suppose aik bar jo kam da dia uxko chnage nh karskaty.(DOS example)
+multi-programming OS/aik sa ziada program ko ap run karsakty but follow FIFO rule hn like linux,UNIX.
+multi-tasking OS/aik sa ziada CPU ko ap run karsakty hn like microsoft windows etc.
+multi-User OS/ aik time aik sa ziada user ka kam kar sakty ho like result,form etc.
+Distributed OS/ jha par network ka throuhgh kafi computers jury hoty hn waha kam ata h. 
+Embeded OS/ koi particular kam lia design kia jaye like smart watch.
+
+OS Operation/2operations/ user mode and kernal mode and mode bit provided by hardare.
+
+CS Operation: jo sharing ka access dany ka lia connected ho.aik computer ma aik sa ziada devices buses ka zariya connected ho
+ like disk controller,usb,video adapter etc.
+Some important terms/
+Bootstrap program/
+interrupt/ something that disturbing you. it sends the signals to CPU. ham jab pc ko koi or kam da karny ka lia da or aik kam 
+ko rukny ka lia force karty uxko interrupt kehty hain but jab koi hardware ki taraf sa ho. 
+system call (exception or Trap)/ software ki taraf sa interrupt ho usko kehty hn. ya sab stop kardeta h or usko fixed location par transfer 
+kardeta h.
+Types of system call/
+Process control/ it controlled all Processes.
+file manipulation/ it manipulate the file.
+Device mangement/ it manage the I/o devices.
+info management/It manage the data information.
+communication/  
+
+User mode/we use appliaction u are in user mode generate interrupt.
+Kernal mode/we use OS  u are in kernal mode read system call. 
+Kernal/ main part of OS h. jo ka apky program ko memory ma load karta h jiski waja hamara computer chalta h  
+Caching/ koi bhi info/data ko move karaye slow storage sa faster storage ma ..
+DMA (Direct Memory access)/ ya directly memory ko access karta h bagair cpu ko use kary but only one interrupt can be performed.
+Clusterd system/ aik sa ziada computer connected hoty hn SAN sa.
+
+
+CS structure: divided into 4 components : hardware/OS/App Programs/User
+or 
+
+Chapter:3
+Process/ it is a heavy w8 task. changing location of data Or info.(data/code/stack/registers) same copy generate karta h.
+we use fork for process. and OS Perform
+Threads/ it is a li8 w8 task. same as process but no overhead. but stack and reg are change not data or code. created by
+application ya API. and User Perform
+
+Pipes/ allow two Process to Communicate.
+Ordinary Pipes/ is my producer mxg ko write karta h or consumer read.and required P&C relationship.
+Named Pipes/more Powerful.BI directonal communication. no P&C relationship.
+
+Communication in client server system/
+Socket/it is end point of communication.
+Remote Procedure call/it is between process on network system.
+
+
+
+Semaphores/ jab aik sa ziada Program apas ma run hoty or common bhi ho to usmy kafi issues aty hn like deadlock.
+it is integer variable. us value ko mutual exclusion karty hn. or kafi processes use karty hn synchronization ko 
+achive karny ka lia.
+TWO TYPES/
+Counting/(neg infinity to +)
+Binary/(0,1) 

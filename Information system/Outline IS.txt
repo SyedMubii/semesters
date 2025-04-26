@@ -1,0 +1,7 @@
+1.types and Categories and Business functions of IS week:3
+2.Business Processes and IS week:4
+3.Enterprise System And ERP system Week:5
+4.Supply Chain Management and CRM week:6
+5.Organization and Strategy, IS week:7
+6.Information system integration(IsI) and Erp system and Enterprise Application Integration(EAI) week:9
+7.Securing information system week:10

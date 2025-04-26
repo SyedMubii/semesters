@@ -1,0 +1,38 @@
+SOFTWARE LICENSING?
+“A SL is a legally binding agreement that specifies the term of use for an application and defines the rights of the software producer and of the end-user.”
+	OR
+A software license is a document that provides legally binding guidelines for the use and distribution of software.
+Software licenses typically provide end users with the right to one or more copies of the software without violating copyrights
+CATEGORIES
+Single user license
+• A single-user license typically grants a single person the right to install the software, often on only one computer
+• Sometimes the license agreement grants the single user unlimited amount of installations on any number of computers, as long as only one user actually uses the S.
+• A software license that allows more than one person to use the software called Multi-user licensing
+DIFFERENT TYPES OF LICENSE
+Freeware
+• Freeware is software that is free to use. Unlike commercial software's it does not require any payment or licensing fee.
+• You can legally download and use freeware for as long as you want without having to pay for it.
+• All the features are free. • Freeware programs can be distributed free of cost.
+• Examples includes: Adobe PDF, Google Talk, yahoo messenger, MSN messenger
+SHAREWARE
+• The term shareware refers to commercial software that is copyrighted, but which may be copied for others for the purpose of their trying it out with the 
+understanding that they will pay for it if they continue to use it.
+• Sharewares give users a chance to try the software before buying it.
+• Most of the times, all features are not available, or have limited use. To use all the features of the software, user has to purchase the software.
+• Shareware may or may not be distributed freely
+FULL PACKAGE
+• Includes a complete software product in a CD with its manual.
+• You can not transfer it from one pc to another if you want to transfer you have to remove from first.
+LIMITED LICENSE (LL) 
+• A Limited License software is only intended for non-commercial use of a program. 
+• The software is intended for multiple person use, but limited to a certain number of users at the same time. 
+• One example of this is Webroot Anti-Virus with Spyware
+• Unlimited Site License (USL)
+• Unlimited Site License agreements is software that has no limit on the number of copies that can be distributed. These types of licenses are available to groups
+of people at a time, such as universities or government agencies
+OPEN SOURCE
+• Open source software is software that is subject to an open source license.
+• An open source licensor must give the licensee certain rights to be considered open source 
+• Basically, the licensee has the right to use, modify or distribute the software, and the right to access the source code.
+• Examples
+• Apache Web Server, Mozilla and Firefox web browsers,Linux,BIND, MySQL

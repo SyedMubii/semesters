@@ -1,0 +1,38 @@
+Course name :DB Administration and Management
+Theory and LAB
+
+Theory 100 marks
+Attendence 10
+Midterm 30
+Assignment 
+Final
+
+
+LAB Marks
+  lab test 100( Mcq Based + Query Based + Design Based(ERD))
+
+
+
+
+http://localhost:8080/apex/f?p=4500:1003:1525880739618705::NO:::
+
+
+
+
+Oracle 11g express edition
+
+
+Oracle link
+http://localhost:8080/apex   User
+
+http://localhost:8080/apex/f?p=4950    Admin
+
+
+
+
+https://drive.google.com/drive/folders/1Ifmj_7qKwbRm4lTFfVKaSkG5J3wrAUHB?usp=sharing
+
+
+
+
+Chapter: 1 lab sumbit today

@@ -1,0 +1,24 @@
+Transformation/ ismy object ma koi bh changing karny ko transformation. kehty hn..
+Translation/changing of position of the object.
+Rotation/changing of 45 degree angle of th object.
+Scaling/changing size of the object.
+shearing/changing shape of the object.
+Reflection/changing 180 degree angle.
+
+
+
+input/output devices
+
+input/use for transfering data into computer like sound,txt, graphics
+Output/accept or translate the data into computer like monitor,printer/plotter 
+
+
+
+
+Squash/
+Stretch/
+Keyframming/
+Skinning/
+Motion Capture/
+Bindpose/
+Automatic Rigging/

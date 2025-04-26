@@ -1,0 +1,56 @@
+#include<graphics.h>
+#include<iostream.h>
+#include<conio.h> 
+void main() 
+{ 
+ int gd=DETECT,gm; 
+ initgraph (&gd,&gm,"c:\\tc\\bgi"); 
+ line(180,20,480,20);
+  cout<<"\n\n\t\t\t\t\tLine";
+ getch(); 
+}
+
+
+#include<graphics.h>
+#include<iostream.h>
+#include<conio.h> 
+void main() 
+{ 
+ int gd=DETECT,gm; 
+ initgraph (&gd,&gm,"c:\\tc\\bgi"); 
+
+ circle(60,150,50); 
+ rectangle(150,100,350,200); 
+  cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n     Circle\t\t  Rectangle"; 
+ getch(); 
+}
+
+
+
+#include<graphics.h>
+#include<iostream.h>
+#include<conio.h> 
+void main() 
+{ 
+ int gd=DETECT,gm; 
+ initgraph (&gd,&gm,"c:\\tc\\bgi"); 
+ cout<<"\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\tEclipse\t\t\t\t\tPolygon"; 
+ ellipse(150,200,0,360,140,50); 
+
+
+setlinestyle(0,0,1);
+   line(430,170,600,170);
+   
+    setlinestyle(0,0,1);
+   line(400,210,570,210);
+setlinestyle(0,0,1);
+   line(600,170,570,210);
+   
+   setlinestyle(0,0,1);
+   line(430,170,400,210);
+
+ getch(); 
+}
+
+
+

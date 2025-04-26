@@ -1,0 +1,8 @@
+Use your personal email address for both of the following: 
+1. Sign up on Azure: portal.azure.com 
+2. Sign up on learn.microsoft.com 
+3. On MS Learn, use this link: https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/
+4. Go to the tab with Exercise
+5. Click "Activate Sandbox" 
+
+NOTE: you'll ge 10 sandboxes per 24 hours; each sandbox will be live for 1 hr)

@@ -1,0 +1,34 @@
+What is computer virus?
+Computer virus refers to a program which damages computer systems and/or destroys or erases data files.
+
+Types of Computer Virus
+Time Bomb,Logical Bomb,Worm Virus,Boot Sector Virus,Macros Virus,Script Virus,Trojan Horse
+
+Time Bomb
+A time bomb is a virus program that performs an activity on a particular date
+Logical Bomb
+A logical bomb is a destructive program that performs an activity when a certain action has occurred.
+Worm Virus
+A worm is also a destructive program that fills a computer system with self-replicating information, clogging the system so that its operations are slowed down or
+stopped.
+Boot Sector Virus
+A boot sector virus infects boot sector of computers. During system boot, boot sector virus is loaded into main memory and destroy data stored in hard disk
+Macro Virus
+A macro virus is associated with application software like word and excel. When opening the infected document, macro virus is loaded into main memory and destroys
+data stored in hard disk
+Script Virus
+Commonly found script viruses are written using the Visual Basic Scripting edition (VBS) and the JavaScript programming languages
+Trojan Horse
+Trojan Horse is a destructive program. It usually pretends as computer games or application software. If executed,computer system will be damaged.
+Trojan Horse usually comes with monitoring tools and key loggers.
+
+Actions to prevent virus infection:
+Always update your anti-virus software at least weekly.
+Back up your important files and ensure that they can be restored. 
+Change the computer's boot sequence to always start the PC from its hard drive.
+Don't share Drive C: without a password and without read-only restrictions.
+Forget opening unexpected e-mail attachments, even if they're from friends.
+Get trained on your computer's anti￾virus software and use it. 
+Have multiple backups of important files. This lowers the chance that all are infected.
+Install security updates for your operating system and programs as soon as possible.
+Jump at the chance to learn more about your computer.This will help you spot viruses.
